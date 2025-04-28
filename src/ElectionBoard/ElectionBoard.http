@@ -1,0 +1,6 @@
+@Amin.ElectionBoard_HostAddress = http://localhost:5084
+
+GET {{Amin.ElectionBoard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
